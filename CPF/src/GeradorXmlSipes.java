@@ -2,7 +2,7 @@
 public class GeradorXmlSipes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 
 		String nome = "";
 		String cpf = "";
 		String documento = "";
@@ -21,7 +21,7 @@ public class GeradorXmlSipes {
 
 		// System.out.println("XML PreCli");
 		// //System.out.println(cocli.cocli);
-		// System.out.println(""); // Cocli é vazio no PreCli
+		// System.out.println(""); // Cocli ï¿½ vazio no PreCli
 		// System.out.println(cpf);
 		// System.out.println(dados.TipoPessoa);
 		// System.out.println(nome + cpf);
@@ -33,7 +33,7 @@ public class GeradorXmlSipes {
 		// System.out.println(dados.consistenciaCpf);
 		// System.out.println(dados.situacCpfCaixa);
 		// //System.out.println(cocli.cocli);
-		// System.out.println(""); // Cocli é vazio no PreCli
+		// System.out.println(""); // Cocli ï¿½ vazio no PreCli
 		// System.out.println(dados.sexo);
 		// System.out.println(dados.codPaisOrigem);
 		// System.out.println(dados.codEstCivil);
